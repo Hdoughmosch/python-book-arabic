@@ -81,7 +81,7 @@
 | 23 | Async/Concurrency في Python |
 | 24 | اختبار متقدم (Advanced Testing) |
 | 25 | تطوير تطبيقات الموبايل مع Kivy |
-| 26 | BeeWare — Python أصلي على كل المنصات |
+| 26 | BeeWare — Python ى كل المنصات |
 | 27 | PyInstaller — تحويل Python إلى ملفات تنفيذية |
 | 28 | Docker مع Python |
 | 29 | الذكاء الاصطناعي المحلي مع Ollama |
