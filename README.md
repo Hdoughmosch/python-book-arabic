@@ -130,14 +130,31 @@ python owl_python_editor.py
 📋 واجهة بسيطة وسهلة للطلاب
 
 ⚡ تنفيذ فوري للأكواد
+## 📞 تواصل مع المؤلف
 
-📞 تواصل مع المؤلف
-حسام دغمش (Husam Doughmosch)
+**حسام دغمش** (Husam Doughmosch)
 
-المنصة	الرابط
-🔗 LinkedIn	linkedin.com/in/husam-doughmosch
-🐦 X (Twitter)	x.com/HusamDoughmosch
-🐙 GitHub	github.com/Hdoughmosch
+<div align="center">
+  <a href="https://www.linkedin.com/in/husam-doughmosch/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/HusamDoughmosch" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+  </a>
+  <a href="https://github.com/Hdoughmosch" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
+
+<br>
+
+| المنصة | الرابط |
+|:---|:---|
+| 🔗 **LinkedIn** | [linkedin.com/in/husam-doughmosch](https://www.linkedin.com/in/husam-doughmosch/) |
+| 🐦 **X (Twitter)** | [x.com/HusamDoughmosch](https://x.com/HusamDoughmosch) |
+| 🐙 **GitHub** | [github.com/Hdoughmosch](https://github.com/Hdoughmosch) |
+
+
 📜 شروط الاستخدام
 FREE FOR PERSONAL USE ONLY
 
